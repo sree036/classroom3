@@ -1,0 +1,157 @@
+.main-box{
+    #background: darkorchid;
+    margin: -1%;
+
+}
+#headi{
+    color: rgb(251, 252, 249);
+    margin: 2%;
+    font-size: 50px;
+    margin-left: 8%;
+    padding: 2%;
+}
+.headding{
+    width: 100%;
+    height: 7%;
+    background: red;
+    
+}
+.box-1{
+    
+    width: 80%;
+    height: 600px;
+    margin-left: 25%;
+}
+.box-sub{
+    #background: rgb(40, 212, 97);
+    width: 100%;
+    height: 700px;
+    margin: 1%;
+}
+
+.box-2{
+    #background:brown;
+    width: 25.4%;
+    height: 350px;
+    margin-top: -400px;
+    
+}
+.box-3{
+    width: 82%;
+    height: 100px;
+    #background: chartreuse;
+    margin-left: 20%;
+    margin-top: 12%;
+}
+.box-4{
+    #background:rgb(122, 222, 235);
+    width: 25.4%;
+    height: 255px;
+    margin-top: -21%;
+    
+}
+.button{
+    margin:8%;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+    
+}
+
+.button1{
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button3{
+    margin: 8%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 4%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button4{
+    float: left;
+    margin-top: -110%;
+    margin-left: 60%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button5{
+    float: left;
+    margin-top: -150%;
+    margin-left: 60%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button6{
+    float: left;
+    margin-top: -150%;
+    margin-left: 20%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button7{
+    float: left;
+    margin-top: -110%;
+    margin-left: 20%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
+.button8{
+    float: left;
+    margin-top: -85%;
+    margin-left: 40%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.2s;
+    background-size: 200% auto;
+    color: rgb(85, 27, 27);            
+    box-shadow: 0 0 20px rgb(247, 3, 3);
+    border-radius: 10px;
+    display: block;
+}
