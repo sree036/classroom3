@@ -5,9 +5,39 @@
     border-radius: 10px;
     font-size: medium;
     transition-duration: 0.4s;
+    margin-left: 2%;
+    margin-top: 1%;
 
 }
 .home_button:hover {
-    background-color: #4CAF50; /* Green */
+    background-color: #070707; /* Green */
     color: white;
+  }
+  .home-box{
+      width: 100%;
+      height: 50px;
+      background-color: rgb(66, 8, 8);
+  }
+  .systembox{
+      width: 100%;
+      height:500px;
+      background-image: linear-gradient(#6b3203,#f11010,#000000 );
+      margin-top: -1.8%;
+      
+      
+
+  }
+  #sysno{
+      margin-left: 10%;
+      padding: 2%;
+      color: rgb(248, 246, 246);
+
+  }
+  #para{
+      margin-left: 10%;
+      color: #fff;
+  }
+  #sys2{
+      margin-left: 2%;
+      color: aqua;
   }
